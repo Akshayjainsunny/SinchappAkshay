@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:sinch-android-rtc-3.17.0:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sinch-android-rtc-3.17.0/build/.transforms/7d7700360663a6b2497f0d2e1023a81a/jetified-sinch-android-rtc-3.17.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/sinch-android-rtc-3.17.0/build/.transforms/7d7700360663a6b2497f0d2e1023a81a/jetified-sinch-android-rtc-3.17.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
